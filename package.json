@@ -1,0 +1,26 @@
+{
+  "name": "bot-my-ip",
+  "version": "1.0.0",
+  "description": "show ip address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eamarelo/bot-my-ip.git"
+  },
+  "author": "Elies AMARELO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eamarelo/bot-my-ip/issues"
+  },
+  "homepage": "https://github.com/eamarelo/bot-my-ip#readme",
+  "devDependencies": {
+    "eslint": "^4.18.2"
+  },
+  "dependencies": {
+    "deasync": "^0.1.12",
+    "request": "^2.83.0"
+  }
+}
